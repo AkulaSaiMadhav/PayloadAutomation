@@ -1,6 +1,7 @@
 //package com.madhav.payloadgeneration.exceptions;
 //
 //import jakarta.servlet.http.HttpServletResponse;
+//import lombok.NoArgsConstructor;
 //import org.apache.tomcat.websocket.AuthenticationException;
 //import org.springframework.http.HttpStatus;
 //import org.springframework.http.ResponseEntity;
@@ -11,6 +12,7 @@
 //
 //import java.io.IOException;
 //
+//@ControllerAdvice
 //public class GlobalExceptionHandler extends RuntimeException {
 //
 //    @ExceptionHandler(AuthenticationException.class)
@@ -18,4 +20,12 @@
 //             HttpServletResponse response) throws IOException {
 //        return new ResponseEntity<>(HttpStatus.UNAUTHORIZED);
 //    }
+//
+//    @ExceptionHandler(IllegalArgumentException.class)
+//    public ResponseEntity illegalException(
+//            HttpServletResponse response) {
+//        return new ResponseEntity<>(HttpStatus.UNAUTHORIZED);
+//    }
+//
+//
 //}

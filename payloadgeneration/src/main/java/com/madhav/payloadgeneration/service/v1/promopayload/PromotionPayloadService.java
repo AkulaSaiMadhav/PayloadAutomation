@@ -37,4 +37,3 @@ public class PromotionPayloadService {
         return promotionResponseDto;
     }
 }
-
