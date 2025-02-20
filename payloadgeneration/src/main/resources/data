@@ -1,0 +1,21 @@
+simple promotion structure
+
+id
+parentId
+startDateTime
+endDateTime
+name
+shortdescription
+locationclusters - array(list)
+currency
+country---countrycode
+condition-- [id, type, subconditions { id, type scheme ,suppressMissedRewardsForAnonymous, identifiedWithScheme, ------------tpnbs(arraylist), product group, requiredQuantityMin, requiredQuantityMax, cheapest, sellingUOM
+rewardRules ---[type, applyto{conditions(array) , cheapest, maxQuantity} , addToTillRewards, price]
+phase
+state
+maxApplications
+advertiseDateTime
+transitional --- [referenceNumber, extId, usesFeatureSpace, posIndicator, printLabel]
+promoType
+meta ---'[subClasses(array)]
+createdBySupplier

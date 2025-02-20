@@ -1,0 +1,213 @@
+{
+  "promotion" : {
+    "countryCode" : "IE",
+    "promotionId" : "trn:tesco:promotion:uuid:pay",
+    "promotionStatus" : "Withdrawn",
+    "notificationActions" : null,
+    "resetFundingStatus" : false,
+    "resetFunding" : false,
+    "fieldsUpdated" : [ {
+      "fieldName" : "rpmStatus",
+      "fieldValue" : "Withdrawn"
+    }, {
+      "fieldName" : "promotionStatus",
+      "fieldValue" : "Withdrawn"
+    } ],
+    "userUuid" : "trn:tesco:uid:uuid:998008ee-ea17-435c-a403-12df70dbf780",
+    "userType" : "SERVICE",
+    "roleName" : "SERVICE"
+  },
+  "productsAdded" : null,
+  "productsAmended" : [ {
+    "productZoneUuid" : "087894571:12",
+    "fieldsUpdated" : [ {
+      "fieldName" : "rpmStatus",
+      "fieldValue" : "Withdrawn"
+    }, {
+      "fieldName" : "productStatus",
+      "fieldValue" : "Withdrawn"
+    }, {
+      "fieldName" : "rpmPromotionId",
+      "fieldValue" : [ "91287578" ]
+    }, {
+      "fieldName" : "enterpriseApiUUID",
+      "fieldValue" : "44d75266-e2bc-4714-a388-95fd54c13f79"
+    }, {
+      "fieldName" : "rpmErrorMessageMap",
+      "fieldValue" : null
+    } ],
+    "suppliersFundingDetails" : null
+  }, {
+    "productZoneUuid" : "087894571:13",
+    "fieldsUpdated" : [ {
+      "fieldName" : "rpmStatus",
+      "fieldValue" : "Withdrawn"
+    }, {
+      "fieldName" : "productStatus",
+      "fieldValue" : "Withdrawn"
+    }, {
+      "fieldName" : "rpmPromotionId",
+      "fieldValue" : [ "91287584" ]
+    }, {
+      "fieldName" : "enterpriseApiUUID",
+      "fieldValue" : "7b69da16-9b77-4254-93f6-a3c7bf627c3b"
+    }, {
+      "fieldName" : "rpmErrorMessageMap",
+      "fieldValue" : null
+    } ],
+    "suppliersFundingDetails" : null
+  }, {
+    "productZoneUuid" : "087894571:14",
+    "fieldsUpdated" : [ {
+      "fieldName" : "rpmStatus",
+      "fieldValue" : "Withdrawn"
+    }, {
+      "fieldName" : "productStatus",
+      "fieldValue" : "Withdrawn"
+    }, {
+      "fieldName" : "rpmPromotionId",
+      "fieldValue" : [ "91287576" ]
+    }, {
+      "fieldName" : "enterpriseApiUUID",
+      "fieldValue" : "e57eb620-2c18-4ec9-ba89-e3127c7945bf"
+    }, {
+      "fieldName" : "rpmErrorMessageMap",
+      "fieldValue" : null
+    } ],
+    "suppliersFundingDetails" : null
+  }, {
+    "productZoneUuid" : "087894571:15",
+    "fieldsUpdated" : [ {
+      "fieldName" : "rpmStatus",
+      "fieldValue" : "Withdrawn"
+    }, {
+      "fieldName" : "productStatus",
+      "fieldValue" : "Withdrawn"
+    }, {
+      "fieldName" : "rpmPromotionId",
+      "fieldValue" : [ "91287572" ]
+    }, {
+      "fieldName" : "enterpriseApiUUID",
+      "fieldValue" : "926fad8f-10e3-40d9-9384-f7cb264ad041"
+    }, {
+      "fieldName" : "rpmErrorMessageMap",
+      "fieldValue" : null
+    } ],
+    "suppliersFundingDetails" : null
+  }, {
+    "productZoneUuid" : "087894571:16",
+    "fieldsUpdated" : [ {
+      "fieldName" : "rpmStatus",
+      "fieldValue" : "Withdrawn"
+    }, {
+      "fieldName" : "productStatus",
+      "fieldValue" : "Withdrawn"
+    }, {
+      "fieldName" : "rpmPromotionId",
+      "fieldValue" : [ "91287558" ]
+    }, {
+      "fieldName" : "enterpriseApiUUID",
+      "fieldValue" : "887e9e93-beb7-4eb0-8b84-150083e75a1e"
+    }, {
+      "fieldName" : "rpmErrorMessageMap",
+      "fieldValue" : null
+    } ],
+    "suppliersFundingDetails" : null
+  }, {
+    "productZoneUuid" : "087894571:17",
+    "fieldsUpdated" : [ {
+      "fieldName" : "rpmStatus",
+      "fieldValue" : "Withdrawn"
+    }, {
+      "fieldName" : "productStatus",
+      "fieldValue" : "Withdrawn"
+    }, {
+      "fieldName" : "rpmPromotionId",
+      "fieldValue" : [ "91287562" ]
+    }, {
+      "fieldName" : "enterpriseApiUUID",
+      "fieldValue" : "961386ce-24f6-43d9-8ca3-cd61a3b62348"
+    }, {
+      "fieldName" : "rpmErrorMessageMap",
+      "fieldValue" : null
+    } ],
+    "suppliersFundingDetails" : null
+  }, {
+    "productZoneUuid" : "087894571:18",
+    "fieldsUpdated" : [ {
+      "fieldName" : "rpmStatus",
+      "fieldValue" : "Withdrawn"
+    }, {
+      "fieldName" : "productStatus",
+      "fieldValue" : "Withdrawn"
+    }, {
+      "fieldName" : "rpmPromotionId",
+      "fieldValue" : [ "91287567" ]
+    }, {
+      "fieldName" : "enterpriseApiUUID",
+      "fieldValue" : "a119b6c4-fa47-4c66-aae3-eba14d9ad35d"
+    }, {
+      "fieldName" : "rpmErrorMessageMap",
+      "fieldValue" : null
+    } ],
+    "suppliersFundingDetails" : null
+  }, {
+    "productZoneUuid" : "087894571:19",
+    "fieldsUpdated" : [ {
+      "fieldName" : "rpmStatus",
+      "fieldValue" : "Withdrawn"
+    }, {
+      "fieldName" : "productStatus",
+      "fieldValue" : "Withdrawn"
+    }, {
+      "fieldName" : "rpmPromotionId",
+      "fieldValue" : [ "91287549" ]
+    }, {
+      "fieldName" : "enterpriseApiUUID",
+      "fieldValue" : "e4ea7e5d-d884-4483-9275-2fd6fe30096d"
+    }, {
+      "fieldName" : "rpmErrorMessageMap",
+      "fieldValue" : null
+    } ],
+    "suppliersFundingDetails" : null
+  }, {
+    "productZoneUuid" : "087894571:10",
+    "fieldsUpdated" : [ {
+      "fieldName" : "rpmStatus",
+      "fieldValue" : "Withdrawn"
+    }, {
+      "fieldName" : "productStatus",
+      "fieldValue" : "Withdrawn"
+    }, {
+      "fieldName" : "rpmPromotionId",
+      "fieldValue" : [ "91287545" ]
+    }, {
+      "fieldName" : "enterpriseApiUUID",
+      "fieldValue" : "9077d75b-8788-403a-a909-b2518b7754ef"
+    }, {
+      "fieldName" : "rpmErrorMessageMap",
+      "fieldValue" : null
+    } ],
+    "suppliersFundingDetails" : null
+  }, {
+    "productZoneUuid" : "087894571:11",
+    "fieldsUpdated" : [ {
+      "fieldName" : "rpmStatus",
+      "fieldValue" : "Withdrawn"
+    }, {
+      "fieldName" : "productStatus",
+      "fieldValue" : "Withdrawn"
+    }, {
+      "fieldName" : "rpmPromotionId",
+      "fieldValue" : [ "91287552" ]
+    }, {
+      "fieldName" : "enterpriseApiUUID",
+      "fieldValue" : "9e1302bd-29b4-4c8f-8fb6-1c7e5d3b3046"
+    }, {
+      "fieldName" : "rpmErrorMessageMap",
+      "fieldValue" : null
+    } ],
+    "suppliersFundingDetails" : null
+  } ],
+  "fundingsAmended" : null
+}
